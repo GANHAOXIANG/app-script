@@ -1,5 +1,9 @@
 # app脚本
 
+#### 原作者及地址
+https://gitee.com/soy-tool/app-script
+因需要在github拉取脚本故搬运，侵删
+
 #### 介绍
 羊毛app脚本,作者qq 1056211611
 
